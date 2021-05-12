@@ -1,5 +1,5 @@
 {
-  "name": "@ubermanu/converse-headless-es",
+  "name": "converse-headless-es",
   "version": "1.0.0",
   "description": "Headless build of ConverseJS compatible with ES modules",
   "keywords": [

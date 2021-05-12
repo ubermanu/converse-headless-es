@@ -2,9 +2,11 @@
 
 Compatible `@converse/headless` with ES modules.
 
+Note: This package contains all the required dependencies.
+
 ### Install
 
-    npm i @ubermanu/converse-headless-es
+    npm i converse-headless-es
 
 ### Usage
 
