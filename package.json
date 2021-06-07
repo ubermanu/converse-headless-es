@@ -1,6 +1,6 @@
 {
   "name": "converse-headless-es",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Headless build of ConverseJS compatible with ES modules",
   "keywords": [
     "conversejs",
